@@ -1,7 +1,7 @@
 public class nurAlfiana {
     public static void main(String[] args) {
         
-        System.out.println("\n>>> TIPE DATA BOOLEAN DAN CHAR<<<");
+        System.out.printf("\t>>> TIPE DATA BOOLEAN DAN CHAR<<<\n");
         int nilai = 78;
         int kkm = 80;
 
