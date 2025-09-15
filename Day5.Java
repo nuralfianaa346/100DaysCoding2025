@@ -1,7 +1,7 @@
 public class day5 {
 
     public static void main(String[] args) {
-        System.out.printf("\n===Assalamualaikum===\n");
+        System.out.printf("\t===Assalamualaikum===\n");
         byte umur = 18;
        short tahun = 2025;
        
@@ -12,7 +12,7 @@ public class day5 {
         System.out.println(" tahun : " + tahun);
         System.out.println("jumlahPenduduk :" + jumlahPenduduk );
         System.out.println("jarakBumiKematahari :" + jarakBumiKeMatahari  + "KM");
-        System.out.printf("\n ===TERIMA KASIH===");
+        System.out.printf("\t===TERIMA KASIH===");
         
     }
 }
