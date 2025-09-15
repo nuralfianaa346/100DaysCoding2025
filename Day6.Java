@@ -1,7 +1,7 @@
 public class day6 {
 
     public static void main(String[] args) {
-        System.out.printf("\n>>> RATA - RATA TIMBANGAN GABAH MAMA AJI<<<\n");
+        System.out.printf("\t>>> RATA - RATA TIMBANGAN GABAH MAMA AJI<<<\n");
         
         int karung1 = 140;
         double karung2 = 145.2;
@@ -19,7 +19,7 @@ public class day6 {
         double total = ( karung1 + karung2 + karung3 + karung4 + karung5 )/ 5.0;
         
         System.out.println("total :" + total );
-        System.out.printf(" >>TERIMA KASIH!<<\n");
+        System.out.printf(" \t>>TERIMA KASIH!<<");
         
         
         
