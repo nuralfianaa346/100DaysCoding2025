@@ -1,7 +1,7 @@
 public class Day15 {
 
     public static void main(String[] args) {
-        System.out.println("\t >>>OPERATOR ARITMATIKA<<<\n");
+        System.out.print("\t >>>OPERATOR ARITMATIKA<<<\n");
         int a = 26;
         int b = 4;
         double c = 1.1;
@@ -19,7 +19,7 @@ public class Day15 {
         System.out.println(" HASIL =" + penjumlahan);
         System.out.println(" HASIL ="+ PENJUMLAHAN);
         
-        System.out.println(" \tPENGURANGAN\n");
+        System.out.print(" \tPENGURANGAN\n");
         System.out.println("HASIL ="+ pengurangan);
         System.out.println("HASIL ="+ Pengurangan);
         System.out.println("HASIL ="+ PENGURANGAN);
