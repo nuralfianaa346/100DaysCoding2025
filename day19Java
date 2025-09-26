@@ -1,0 +1,22 @@
+package D0255318;
+
+public class day19 {
+
+    public static void main(String[] args) {
+        System.out.println(" KONVERSI MANUAL / PAKSA ");
+        int nilaibesar = 3500;
+        byte ByteKecil = (byte) nilaibesar;
+        short shortKecil = (short) nilaibesar;
+        long LongKecil = (long) nilaibesar;
+        float floatKecil = (float) nilaibesar;
+        double Doublekecil = (double) nilaibesar;
+
+        System.out.println(" int -> byte :" + ByteKecil);
+        System.out.println(" int -> short :" + shortKecil);
+        System.out.println(" int -> long :" + LongKecil);
+        System.out.println(" int -> float :" + floatKecil);
+        System.out.println(" int -> double :" + Doublekecil);
+
+        System.out.println(" \t>>>SELESAI<<<");
+    }
+}
