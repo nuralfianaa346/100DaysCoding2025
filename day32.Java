@@ -7,11 +7,11 @@ public class day32 {
     public static void main(String[] args) {
         Scanner pia = new Scanner(System.in);
         System.out.println(" apakah kondisi saat ini sedang hujan? ( true / false)");
-        boolean sedang_hujan = pia.nextBoolean();
+        boolean hujan = pia.nextBoolean();
         System.out.println(" apakah kondisi saat ini cerah?( true / false)");
-        boolean sedang_mendung = pia.nextBoolean();
+        boolean mendung = pia.nextBoolean();
 
-        boolean bawa_payung = sedang_hujan || sedang_mendung;
+        boolean bawa_payung = hujan || mendung;
 
         
         if (bawa_payung) {
