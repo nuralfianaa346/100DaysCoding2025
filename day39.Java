@@ -11,7 +11,7 @@ public class day39 {
         System.out.println("2. Mie Goreng  - Rp12.000");
         System.out.println("3. Ayam Bakar  - Rp18.000");
         System.out.println("4. Mie Pangsit - Rp10.000");
-        System.out.print("pilihlah menu yang anda inginkan (1-3) :");
+        System.out.print("pilihlah menu yang anda inginkan (1-4) :");
         int pilihan = a.nextInt();
         if (pilihan == 1) {
             System.out.println("anda memilih NASI GORENG");
