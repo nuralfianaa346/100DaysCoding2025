@@ -12,7 +12,7 @@ public class day43 {
             System.out.println(angka + " adalah kelipatan 3 dan 5");
         } else if (angka % 3 == 0) {
             System.out.println(angka + " adalah kelipatan 3");
-        } else if (angka % 3 == 0) {
+        } else if (angka % 5 == 0) {
             System.out.println(angka + " adalah kelipatan 5");
         } else {
             System.out.println("bukan kelipatan 3,5, ataupun 3 dan 5");
