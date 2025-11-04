@@ -8,7 +8,7 @@ public class day58 {
         Scanner a = new Scanner(System.in);
         System.out.print("masukkan angka: ");
         int angka = a.nextInt();
-        for (int i = 1; i < angka; i++) {
+        for (int i = 1; i <= angka; i++) {
             System.out.println(i);
         }
         System.out.println();
