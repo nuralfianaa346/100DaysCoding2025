@@ -8,14 +8,14 @@ public class day60 {
         System.out.print("Masukkan angka: "); 
         int angka = a.nextInt();
         System.out.println("angka ganjil");
-        for (int i = angka; i >= 0; i--) {
+        for (int i = angka; i >= 1; i--) {
             if (i %2 != 0) {
                 System.out.println("angka " + i + " ganjil");
             }
         }
         System.out.println();
         System.out.println("angka genap");
-        for (int i = angka; i >=0; i--) {
+        for (int i = angka; i >=1; i--) {
             if (i %2 ==0) {
                 System.out.println("angka " + i + " genap");
             }
