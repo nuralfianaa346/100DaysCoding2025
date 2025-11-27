@@ -5,6 +5,6 @@ public class day81 {
     public static void main(String[] args) {
         int[] fiana = {23, 04, 26, 11, 6, 24};
 
-        System.out.print(fiana[2] + " ");
+        System.out.print(fiana[2] );
     }
 }
