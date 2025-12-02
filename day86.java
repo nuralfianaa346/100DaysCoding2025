@@ -6,7 +6,7 @@ public class day86 {
 
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
-        System.out.print("massukkan elemen: ");
+        System.out.print("masukkan elemen: ");
         int e = a.nextInt();
 
         int[] arr = new int[e];
