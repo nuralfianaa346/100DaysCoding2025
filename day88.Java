@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class day88 {
 
     public static void main(String[] args) {
-        Scanner a = new Scanner(System.in);
+       
         String[] nama = {
             "Muhammad", "Ayul", "Syahputra"
         };
